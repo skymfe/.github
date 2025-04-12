@@ -43,6 +43,13 @@ React Adapter is a library that extends the Core Library with React-specific fun
 
 Import Map is a configuration that defines shared dependencies between the microfrontends.
 
+#### Styleguide
+
+Styleguide is a library that contains the global styles and theme for the project.
+
+- Global styles
+- Theme
+
 #### UI Components
 
 UI Components are a library that contains the UI components made without any framework that are shared between all microfrontends and can be extended with React, Vue, Angular, etc.
@@ -75,6 +82,7 @@ So in summary, we have the following repositories:
 - [applications](https://github.com/skymfe/applications)
 - [core-library](https://github.com/skymfe/core-library)
 - [core-library-react-adapter](https://github.com/skymfe/core-library-react-adapter)
+- [styleguide](https://github.com/skymfe/styleguide)
 - [ui-components](https://github.com/skymfe/ui-components)
 - [ui-components-react-adapter](https://github.com/skymfe/ui-components-react-adapter)
 - [importmap](https://github.com/skymfe/importmap)
